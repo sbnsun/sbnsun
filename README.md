@@ -5,7 +5,7 @@
 
 <!-- Here are some ideas to get you started: -->
 ### Hi there 👋 I'm Sabin
-#### I am thankful that you for visiting here
+#### I am thankful that you are visiting my profile
 - 🔭 I’m currently working on some personal projects
 - 🌱 I’m currently learning Spring Boot
 <!-- - 👯 I’m looking to collaborate on ... -->
